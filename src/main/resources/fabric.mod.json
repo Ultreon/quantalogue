@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "quantalogue",
+  "version": "0.1.0",
+  "name": "Quantalogue",
+  "description": "A catalogue port for Quantum Voxel :D",
+  "authors": [ "Qubix" ],
+  "contact": {
+    "sources": "https://github.com/Ultreon/quantalogue",
+    "issues": "https://github.com/Ultreon/quantalogue/issues"
+  },
+  "contributors": [
+    "MrCrayfish"
+  ],
+  "license": "${mod_license}",
+  "icon": "assets/quantalogue/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.ultreon.quants.quantalogue.Quantalogue"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "quantum": ">=0.2",
+    "java": ">=21"
+  },
+  "breaks": {
+    "minecraft": "*"
+  },
+  "mixins": [
+    "quantalogue.mixins.json"
+  ],
+  "custom": {
+    "configured": {
+      "configs": [],
+      "background": "minecraft:textures/block/dirt.png"
+    },
+    "catalogue": {
+      "banner": "assets/${mod_id}/banner.png",
+      "background": "assets/${mod_id}/background.png"
+    }
+  }
+}

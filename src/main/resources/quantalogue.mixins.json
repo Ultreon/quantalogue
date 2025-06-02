@@ -1,0 +1,18 @@
+{
+  "package": "dev.ultreon.quants.quantalogue.mixin",
+  "minVersion": "0.8",
+  "client": [
+    "MixinTextureManager",
+    "MixinTitleScreen"
+  ],
+  "mixins": [
+  ],
+  "server": [
+  ],
+  "setSourceFile": true,
+  "compatibilityLevel": "JAVA_21",
+  "required": true,
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
