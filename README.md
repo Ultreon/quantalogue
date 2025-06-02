@@ -1,5 +1,9 @@
 # Quantalogue
-[![wakatime](https://wakatime.com/badge/github/Ultreon/quantalogue.svg?style=for-the-badge)](https://wakatime.com/badge/github/Ultreon/quantalogue)
+
+**Development time:**
+
+[![wakatime](https://wakatime.com/badge/github/Ultreon/quantalogue.svg?style=for-the-badge)](https://wakatime.com/badge/github/Ultreon/quantalogue)  
+Took 4 hrs, 58 mins for porting to [Quantum Voxel](https://github.com/QuantumVoxel/quantum-voxel)
 
 **Available on:**
 
