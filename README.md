@@ -1,4 +1,6 @@
 # Quantalogue
+[![wakatime](https://wakatime.com/badge/github/Ultreon/quantalogue.svg?style=for-the-badge)](https://wakatime.com/badge/github/Ultreon/quantalogue)
+
 **Available on:**
 
 [![quantum](.img/badge.png)](https://github.com/QuantumVoxel/quantum-voxel)
